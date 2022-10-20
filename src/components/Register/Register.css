@@ -1,0 +1,17 @@
+.passwordInput{
+    position: relative;
+    display: flex;
+    
+}
+.iconInsidePassword{
+    position: absolute;
+    right: 3px;
+    line-height: 38px;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+.repasswordInput{
+    position: relative;
+    display: flex;
+    
+}
